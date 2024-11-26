@@ -1,0 +1,30 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    margin: 0;
+    padding: 0;
+}
+#profileDp{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+#card{
+    background-color: hsl(0, 0%, 12%);
+}
+#country{
+    color: hsl(75, 94%, 57%);
+}
+#des{
+    font-size: small;
+}
+#button{
+    background-color: hsl(0, 0%, 20%);
+    font-size: small;
+    color: white;
+    font-weight: bold;
+}
+#button:hover{
+    background-color: hsl(75, 94%, 57%);
+    cursor: pointer;
+    color: black;
+}
